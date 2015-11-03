@@ -99,13 +99,13 @@ $(function () {
         },
         xAxis: {
             categories: [
-                'Friday',
                 'Monday',
-                'Saturday',
-                'Sunday',
-                'Thursday',
                 'Tuesday',
-                'Wednesday'
+                'Wednesday',
+                'Thursday',
+                'Friday',
+                'Saturday',
+                'Sunday'
             ],
             crosshair: true
         },

@@ -1,0 +1,1 @@
+var district = [["bayview" ,185168],["central" ,179718],["ingleside" ,164254],["mission" ,247950],["northern" ,220670],["park" ,103486],["richmond" ,93886],["southern" ,327670],["taraval" ,137276],["tenderloin" ,167840]]
